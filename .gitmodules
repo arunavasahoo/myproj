@@ -1,0 +1,3 @@
+[submodule "mymodproj"]
+	path = mymodproj
+	url = git@github.com:arunavasahoo/mymodproj.git
